@@ -1,8 +1,14 @@
 # translation-for-free
 Interpreter app vocal translation
 
-Join and use our free translation service for you app. Send an emal to <a href='mailto:theinterpreterapp@gmail.com'>theinterpreterapp@gmail.com</a> with you text file or values.xml.
-We require only a link in your app description and a credit description in your app.
+Join and use our free translation service for your app. 
+
+### RULES ###
+
+1) Send an emal to <a href='mailto:theinterpreterapp@gmail.com'>theinterpreterapp@gmail.com</a> with you text file or values.xml attached.
+2) You will receive a zip file with all requested translations
+
+3) We require only a link to our app in your app description and third party credit in your app.
 
 
 
@@ -11,5 +17,8 @@ Afrikaans,Albanian,Amharic,Arabic,Armenian,Azerbaijani,Basque,Belarusian,Bengali
 
 Download our android app
 <a href='https://play.google.com/store/apps/details?id=it.vincenzoamoruso.theinterpreter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+
+Download our iOS app
+<a href="https://apps.apple.com/us/app/the-interpreter-translator/id833621029?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2014-05-28&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 
