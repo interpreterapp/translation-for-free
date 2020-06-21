@@ -1,7 +1,7 @@
 # translation-for-free
 Interpreter app vocal translation
 
-<a href="./README.it.md">Italiano</a>
+<a href="./README.it.md"><h3>Italiano</h3> 🇮🇹</a>
 
 Join and use our free translation service for your app. 
 
@@ -19,7 +19,7 @@ Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian,
 
 
 Download our android app
-<a href='https://play.google.com/store/apps/details?id=it.vincenzoamoruso.theinterpreter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="width:60px;height:15px;"/></a>
+<a href='https://play.google.com/store/apps/details?id=it.vincenzoamoruso.theinterpreter&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' style="max-width:60px!important;max-height:15px;!important"/></a>
 
 Download our iOS app
 <a href="https://apps.apple.com/us/app/the-interpreter-translator/id833621029?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;">https://apps.apple.com/us/app/the-interpreter-translator/id833621029?mt=8</a>
