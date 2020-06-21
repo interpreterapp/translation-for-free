@@ -8,8 +8,9 @@ Join and use our free translation service for your app.
 ### RULES ###
 
 ✔️ Send us an emal to <a href='mailto:theinterpreterapp@gmail.com'>theinterpreterapp@gmail.com</a> with you text file or values.xml attached. For languages please use code between round brackets.
+<br/>
 ✔️ You will receive a zip file containing  all requested translations
-
+<br/>
 ✔️ We require only a link to our app in your app description and a third party credit in your app.
 
 🤝
