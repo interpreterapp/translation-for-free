@@ -1,7 +1,7 @@
 # translation-for-free
 Interpreter app vocal translation
 
-<a href="./README.it.md"><h3>Italiano</h3> 🇮🇹</a>
+<a href="./README.it.md"><h3>🔗Italiano  🇮🇹</h3></a>
 
 Join and use our free translation service for your app. 
 
