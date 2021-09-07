@@ -27,5 +27,7 @@ Download our android app
 Download our iOS app
 <a href="https://apps.apple.com/us/app/the-interpreter-translator/id833621029?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;">https://apps.apple.com/us/app/the-interpreter-translator/id833621029?mt=8</a>
 
+Our Blog
+<a href="https://theinterpreterapp.blogspot.com" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-sm.svg) no-repeat;width:60px;height:15px;">https://theinterpreterapp.blogspot.com</a>
 
-The interpreter app translator 2020 ©️
+The interpreter app translator 2021 ©️
